@@ -1,0 +1,59 @@
+*{ padding: 0; margin: 0; }
+
+body {
+ margin: 40px auto 50px auto;
+ background: #232323;
+ font: 10pt "Consolas", monospace;
+ width: 120ex;
+ text-align: left;
+	color: #ccc;
+}
+
+h1 {
+ font-size: 12pt;
+ margin-top: 10px;
+	text-transform: uppercase;
+ color: #e5786d;
+}
+
+h2 {
+ margin-top: 5px;
+ font-size: 12pt;
+	font-variant: small-caps;
+ color: #87afff;
+}
+
+h3 {
+ font-size: 10pt;
+	font-style: italic;
+ color: #f7af7f;
+}
+
+p {
+ margin-left: 4ex;
+ margin-top: 1.5ex;
+ margin-right: 4ex;
+ text-align: justify;
+}
+
+a:link {
+	color: #caeb82;
+	font-style: bold;
+	text-decoration: none;
+}
+a:visited {
+	color: #caeb82;
+	font-style: bold;
+	text-decoration: none;
+}
+
+dt {
+  margin-left:4ex;
+	margin-right:4ex;
+	margin-top:4px;
+}
+dd {
+  margin-left:8ex;
+	margin-right:4ex;
+	margin-bottom:4px;
+}
